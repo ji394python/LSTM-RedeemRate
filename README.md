@@ -1,5 +1,5 @@
-#基於Pytorch_LSTM設計的基金贖回報酬率預測模型
-
+# 基於Pytorch_LSTM設計的基金贖回報酬率預測模型
+<>
 ## Predict stock with LSTM
 
 This project includes training and predicting processes with LSTM for stock data. The characteristics is as fellow: 
